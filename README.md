@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmc111
 - 👀 I’m interested in FullStack Web devolopement/AI/Cloud Native devolopement.
-- 🌱 I’m currently learning MERN stack Developement.
+- 🌱 I’m currently working as a Front End Developer.
 - 💞️ I’m looking to collaborate on Fullstack/Cloud developement Projects. 
 - 📫 How to reach me ... mail me @vamship625@gmail.com
 
